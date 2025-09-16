@@ -1,6 +1,6 @@
 # AiBlog - Full Stack Blog Application
 
-AiBlog is a full stack blog application featuring user authentication, an admin dashboard, AI-powered blog content generation, and a modern responsive UI built with React and Tailwind CSS.
+AiBlog is a full stack blog application featuring user authentication, an admin dashboard, AI-powered blog content generation, and a modern responsive UI built with React,Tailwind CSS,node js,Express and MongoDB
 
 ## Features
 
